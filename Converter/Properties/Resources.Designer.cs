@@ -63,30 +63,10 @@ namespace Converter.Properties {
         /// <summary>
         ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap IMG_20210829_142304 {
-            get {
-                object obj = ResourceManager.GetObject("IMG_20210829_142304", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
-        /// </summary>
         internal static System.Drawing.Bitmap png_transparent_computer_icons_data_conversion_religious_conversion_concert_miscellaneous_trademark_logo {
             get {
                 object obj = ResourceManager.GetObject("png-transparent-computer-icons-data-conversion-religious-conversion-concert-misce" +
                         "llaneous-trademark-logo", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap remembering_9_11_with_memorial_songs {
-            get {
-                object obj = ResourceManager.GetObject("remembering-9-11-with-memorial-songs", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

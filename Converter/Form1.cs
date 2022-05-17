@@ -37,28 +37,28 @@ namespace Converter
                 switch (operatorFrom)
                 {
                     case "USD":
-                        kzt = 449.64;
-                        eur = 0.91979;
-                        rub = 79.63;
+                        kzt = 434.98;
+                        eur = 0.95988;
+                        rub = 63.78;
                         usd = 1.0;
                         break;
                     case "EUR":
-                        kzt = 490.06;
+                        kzt = 448.69;
                         eur = 1.0;
-                        rub = 86.79;
-                        usd = 1.09;
+                        rub = 65.79;
+                        usd = 1.04;
                         break;
                     case "RUB":
-                        kzt = 5.65;
-                        eur = 0.011522;
+                        kzt = 6.82;
+                        eur = 0.015199;
                         rub = 1.0;
-                        usd = 0.012558;
+                        usd = 0.015679;
                         break;
                     case "KZT":
                         kzt = 1.0;
-                        eur = 0.002039;
-                        rub = 0.1771;
-                        usd = 0.002224;
+                        eur = 0.002229;
+                        rub = 0.1467;
+                        usd = 0.002299;
                         break;
                 }
                 switch (operatorTo)
